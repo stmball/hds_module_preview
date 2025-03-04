@@ -11,7 +11,7 @@ module.exports = {
   siteMetadata: {
     title: `University of Liverpool Health Data Science Modules`,
   },
-  pathPrefix: "/hds_module_preview",
+  pathPrefix: `/hds_module_preview`,
   plugins: [
     `gatsby-plugin-image`,
     {
